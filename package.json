@@ -5,11 +5,11 @@
   "description": "自动导出配置",
   "author": {
     "name": "fs",
-    "url": "https://github.com/egametang/ET"
+    "url": "https://github.com/yukuyoulei/ConfigAuto"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/egametang/ET"
+    "url": "https://github.com/ET-Packages/cn.etetet.configauto"
   },
   "relatedPackages": {},
   "dependencies": {
