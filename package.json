@@ -1,7 +1,7 @@
 ﻿{
   "name": "cn.etetet.configauto",
   "displayName": "ET.ConfigAuto",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "自动导出配置",
   "author": {
     "name": "fs",
